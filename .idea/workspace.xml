@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,6 +44,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1583097211949">
+      <screen x="0" y="0" width="1176" height="624" />
+    </state>
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1176.624@0.0.1176.624" timestamp="1583097211949" />
     <state x="284" y="136" key="com.intellij.ide.util.TipDialog" timestamp="1583096753574">
       <screen x="0" y="0" width="1176" height="624" />
     </state>
